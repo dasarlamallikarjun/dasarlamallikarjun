@@ -1,6 +1,6 @@
 # Hi, I'm Mallikarjun Dasarla 👋
 
-**AI/ML Engineer · Freshly Graduated · Open to Work**
+**AI/ML Engineer · Graduated · Open to Work**
 
 MS in Computer Science from Ohio University (GPA 3.7) · AWS & Azure Certified
 
