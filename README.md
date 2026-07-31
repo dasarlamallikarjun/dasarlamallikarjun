@@ -31,7 +31,7 @@ I build AI systems that solve real problems — conversational chatbots, predict
 ---
 
 ### 🔐 GNN-Based Intrusion Detection for IIoT Systems *(Master's Thesis)*
-> Detects cyberattacks on industrial IoT devices using Graph Neural Networks — 99.9% accuracy across 50 attack types.
+> Detects cyberattacks on industrial IoT devices using Graph Neural Networks — 99.9% accuracy.
 
 - **Tech:** Python · PyTorch Geometric · GraphSAGE · GCN · GAT · CIC-IIoT-2025
 - **Results:** 99.9% accuracy · 0.01% false positive rate · 685K+ records processed
